@@ -29,7 +29,7 @@ export default function App() {
     }
   ];
 
-  const fetchLeads = () => {};
+  // const fetchLeads = () => {};
 
   return (
     <div className="App">
