@@ -1,0 +1,10 @@
+.card {
+  width: 60%;
+  margin: auto;
+  text-align: left;
+  margin-bottom: 3px;
+}
+
+.avatar_img {
+  width: 49px;
+}
